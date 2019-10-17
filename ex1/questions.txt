@@ -4,4 +4,4 @@ Quelle est la complexité de cet algorithme ? Expliquez pourquoi!
 
 Réponse:
 
-Constante car peut importe les numéros utilisés, le nombre de calculs est toujours le même.
+Constante car peu importe les numéros utilisés, le nombre de calculs est toujours le même.

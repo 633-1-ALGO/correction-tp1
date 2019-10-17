@@ -1,0 +1,17 @@
+Question
+
+Donner le meilleur et le pire cas de complexité dans la version **naïve** de l'algorithme.
+
+Réponse
+
+Meilleur: O(n^2)
+Pire: O(n^2)
+
+Question
+
+Donner le meilleur et le pire cas de complexité dans la version **améliorée** de l'algorithme.
+
+Réponse
+
+Meilleur: O(1)
+Pire: O(n^2)

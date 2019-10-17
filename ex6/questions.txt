@@ -1,0 +1,15 @@
+Question
+
+Pourquoi est-ce que la deuxième fonction est considéré comme O(log(n)) ?
+
+Réponse
+
+Parce qu'il faut doubler la puissance (n) pour devoir faire une boucle de plus.
+
+Question
+
+Pourquoi est-il désirable d'avoir un algorithme ayant une complexité logarithmique ?
+
+Réponse
+
+Très bonne performance, ne coûte que très peu en performance malgré un n élevé.
